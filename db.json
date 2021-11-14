@@ -1,14 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "customer": [
+    { "id": 1, "name": "Sven Xia", "email": "y.xia18@newcastle.ac.uk", "phone_number": "07925703058" }
+  ]
 }
