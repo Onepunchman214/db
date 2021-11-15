@@ -1,5 +1,6 @@
 {
   "customer": [
     { "id": 1, "name": "Sven Xia", "email": "y.xia18@newcastle.ac.uk", "phone_number": "07925703058" }
-  ]
+  ],
+  "taxi": [{"id": 1, "registration": "EC82334", "seats": 9}]
 }
